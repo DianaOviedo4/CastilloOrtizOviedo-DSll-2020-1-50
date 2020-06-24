@@ -1,4 +1,4 @@
-# font
+# practica git
 
 Aprendizaje del git hub
 Diana Oviedo
