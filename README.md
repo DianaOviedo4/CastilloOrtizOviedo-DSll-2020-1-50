@@ -1,6 +1,7 @@
 # font
-TITULO
-aprendizaje del git hub
+
+Aprendizaje del git hub
 Diana Oviedo
 Sebas Ortiz
 Juanca Castillo
+Alejo Ortega
